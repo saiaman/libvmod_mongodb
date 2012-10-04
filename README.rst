@@ -6,9 +6,9 @@ vmod_mongodb
 Varnish MongoDB Module
 ----------------------
 
-:Author: Martin Blix Grydeland
-:Date: 2011-05-26
-:Version: 1.0
+:Author: Saiaman
+:Date: 2012-10-01
+:Version: 0.1
 :Manual section: 3
 
 SYNOPSIS
